@@ -1,4 +1,4 @@
 Dia de practicas.
 Hoy en TPIT salimos a la calle con antenas y medidor de campo.
 Apuntamos las antenas hacia el repetidor y vemos señales en el medidor.
-Adjunto foto en logbook/images/1ª Evaluacion/20221118_Rabaneda_Montes.txt
+Adjunto foto en logbook/images/1ª Evaluacion/20221118_Rabaneda_Montes.jpg

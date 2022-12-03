@@ -1,1 +1,3 @@
-
+Dia de practicas.
+Hoy en TPIT hacemos una practica con el medidor de campo.
+Tomamos medidas de las tomas de usuario del aula con el medidor de campo.

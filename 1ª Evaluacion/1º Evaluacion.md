@@ -95,7 +95,8 @@ hacemos conectores F y CEI
 Dia de practicas.
 Hoy en TPIT hacemos una practica con el medidor de campo.
 Tomamos medidas de las tomas de usuario del aula con el medidor de campo.
-Adjunto foto en IMAGES/1ª Evaluacion/20221028_Rabaneda_Montes.jpg
+Adjunto foto:
+![N|Solid](https://github.com/djmelgo/Logbook/blob/487fcfea361f7b1e35fbc42ef2e89041afa272ba/IMAGES/1%C2%AA%20Evaluacion/20221028_Rabaneda_Montes.jpg?raw=true)
 
 ### 20221111
 

@@ -103,7 +103,8 @@ Adjunto foto:
 Dia de practicas.
 Tenemos SIRL
 este dia, montamos en el aula una canaleta encima de las mesas para tener enchufes y tomas de red accesibles como "banco de pruebas"
-Adjunto foto en logbook/images/1ª Evaluacion/20221111_Rabaneda_Montes.jpg
+Adjunto foto:
+![N|Solid](https://github.com/djmelgo/Logbook/blob/main/IMAGES/1%C2%AA%20Evaluacion/20221111_Rabaneda_Montes.JPEG?raw=true)
 
 
 ### 20221118
@@ -111,7 +112,8 @@ Adjunto foto en logbook/images/1ª Evaluacion/20221111_Rabaneda_Montes.jpg
 Dia de practicas.
 Hoy en TPIT salimos a la calle con antenas y medidor de campo.
 Apuntamos las antenas hacia el repetidor y vemos señales en el medidor.
-Adjunto foto en logbook/images/1ª Evaluacion/20221118_Rabaneda_Montes.jpg
+Adjunto foto:
+![N|Solid](https://github.com/djmelgo/Logbook/blob/main/IMAGES/1%C2%AA%20Evaluacion/20221118_Rabaneda_Montes.jpg?raw=true)
 
 
 ### 20221125

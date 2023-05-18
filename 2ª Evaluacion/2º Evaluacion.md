@@ -3,6 +3,7 @@
 ## _Diario de un STI_
 
 
+
 ### 20230113
 
 - Volvemos de las vacaciones de navidad... ¿pilas cargadas?
@@ -14,7 +15,8 @@
 ### 20230127
 
 - Clase practica de parabolicas con Belen!!!! Ha molado... el frio no tanto...
-Adjunto foto en logbook/images/2ª Evaluacion/### 20230127_Rabaneda_Montes.jpg
+Adjunto foto:
+![N|Solid](https://github.com/djmelgo/Logbook/blob/main/IMAGES/2%C2%AA%20Evaluacion/20230127_Rabaneda_Montes.JPEG?raw=true)
 
 ### 20230203
 
@@ -38,7 +40,7 @@ Pasamos expresiones a dicho programa.
 
 ### 20230303
 
-Ultimo dia de examenes de la 2da evaluacion.
+- Ultimo dia de examenes de la 2da evaluacion.
 
-Alguno se carga a algun profesor... jaja...
+- Alguno se carga a algun profesor... jaja...
 

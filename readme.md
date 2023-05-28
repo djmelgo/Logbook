@@ -1,3 +1,7 @@
+Repositorio privado:
+https://github.com/djmelgo/Logbook
+
+
 ──────────▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ────────█═════════════════█
 ──────█═════════════════════█
@@ -26,10 +30,3 @@
 ──────────▐▓▓▓▓▌──▐▓▓▓▓▌
 ─────────▄████▀────▀████▄
 ─────────▀▀▀▀────────▀▀▀▀
-
-
-
-
-
-Repositorio privado:
-https://github.com/djmelgo/Logbook

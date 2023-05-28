@@ -1,3 +1,0 @@
-- SIRL - Comenzamos a jugar con imagenes de disco y a desplagarlas por la red. Ayudamos a Luis Mateo al despliegue y nos muestra como hacerlo.
-
-- Con Joaquin vemos que va a entrar esta 3 evaluacion y damos unas pinceladas a la fusionadora de fibra optica.

@@ -1,0 +1,9 @@
+No trabajo
+12:00 estudio y hago resumen de FOL
+13:00 dejo de estudiar FOL
+hora de comer
+por la tarde tengo 3 horas de SIRL
+vemos capas OSI
+instalamos linux en maquina vintage
+luego tenemos STFM y vemos los reles
+hacemos un circuito que conmuta dos leds encendidos mediante un rele

@@ -101,7 +101,7 @@ Hoy en TPIT hacemos una practica con el medidor de campo.
 Tomamos medidas de las tomas de usuario del aula con el medidor de campo.
 Adjunto foto:
 
-<image src="/images/20221028_Rabaneda_Montes.jpg" alt="Descripción de la imagen">
+<image src="/IMAGES/20221111_Rabaneda_Montes.JPEG" alt="Descripción de la imagen">
 
 ### 20221111
 

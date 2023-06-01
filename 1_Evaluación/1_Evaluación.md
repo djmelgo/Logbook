@@ -62,7 +62,12 @@ Nos tiramos 4 horas en el aula haciendo el examen de la 1a evaluacion.
 
 
 ----------------------------------------------------------------
-***ENLACES*** :
-[Primera EVA](./1_Evaluación/1_Evaluación.md) * 
-[Segunda EVA](./2_Evaluación/2_Evaluación.md) * 
-[Tercera EVA](./3_Evaluación/3_Evaluación.md) * 
+***ENLACES markdown*** :
+[Primera EVA](../1_Evaluación/1_Evaluación.md) * 
+[Segunda EVA](../2_Evaluación/2_Evaluación.md) * 
+[Tercera EVA](../3_Evaluación/3_Evaluación.md) * 
+
+***ENLACES html*** :
+[Primera EVA](../1_Evaluación/1_Evaluación.html) * 
+[Segunda EVA](../2_Evaluación/2_Evaluación.html) * 
+[Tercera EVA](../3_Evaluación/3_Evaluación.html) * 

@@ -15,7 +15,7 @@
 Pasamos expresiones a dicho programa.
 
 Adjunto .gif:
-<image src="/2ª Evaluacion/IMAGES/B. Teoremas y Leyes - TRANSPOSICION.gif" alt="Algebra DIGITAL">
+<image src="/2_Evaluación/IMAGES/B. Teoremas y Leyes - TRANSPOSICION.gif" alt="Algebra DIGITAL">
 
 
 ### 20230212

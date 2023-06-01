@@ -35,7 +35,8 @@ Tenemos SIRL
 este dia, montamos en el aula una canaleta encima de las mesas para tener enchufes y tomas de red accesibles como "banco de pruebas" :roll_eyes:
 
 Adjunto foto:
-<image src="/1_Evaluación/IMAGES/20221111_Rabaneda_Montes.JPEG" alt="Reforma LAN aula EE3">
+
+<image src="./IMAGES/20221111_Rabaneda_Montes.JPEG" alt="Reforma LAN aula EE3">
 
 
 ### 20221125
@@ -62,6 +63,6 @@ Nos tiramos 4 horas en el aula haciendo el examen de la 1a evaluacion.
 
 ----------------------------------------------------------------
 ***ENLACES*** :
-[Primera EVA](/1_Evaluación/1_Evaluación.md) * 
-[Segunda EVA](/2_Evaluación/2_Evaluación.md) * 
-[Tercera EVA](/3_Evaluación/3_Evaluación.md) * 
+[Primera EVA](./1_Evaluación/1_Evaluación.md) * 
+[Segunda EVA](./2_Evaluación/2_Evaluación.md) * 
+[Tercera EVA](./3_Evaluación/3_Evaluación.md) * 

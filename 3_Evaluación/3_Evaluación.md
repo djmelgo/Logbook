@@ -19,7 +19,7 @@
 
 - Me rompo la cabeza y me pongo a hacer un semáforo para arduino... mas o menos... yo no lo pondría en la vía pública XDDDDDD
 
-<image src="./IMAGES/Semaforo Arduino.gif" alt="Semáforo Chulo">
+<image src="./IMAGES/Semaforo_Arduino.gif" alt="Semáforo Chulo">
 
 
 
@@ -27,7 +27,7 @@
 
 - Toqueteamos los routers TPLINK en clase y yo le actualizo el firmware, fácil... :smirk:
 
-<image src="./IMAGES/tplink firmware nuevo.png" alt="Firm nuevo">
+<image src="./IMAGES/tplink_firmware_nuevo.png" alt="Firm nuevo">
 
 
 ### 20230512
@@ -43,7 +43,7 @@
 
 Mira que chulo!!!:
 
-<image src="./IMAGES/Mikrotik - Router en Maquina Virtual.jpg" alt="RouterOS en mi casa">
+<image src="./IMAGES/Mikrotik-Router_en_Maquina_Virtual.jpg" alt="RouterOS en mi casa">
 
 
 ----------------------------------------------------------------

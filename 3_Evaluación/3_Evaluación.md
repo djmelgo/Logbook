@@ -19,7 +19,7 @@
 
 - Me rompo la cabeza y me pongo a hacer un semáforo para arduino... mas o menos... yo no lo pondría en la vía pública XDDDDDD
 
-<image src="/3_Evaluación/IMAGES/Semaforo Arduino.gif" alt="Semáforo Chulo">
+<image src="./IMAGES/Semaforo Arduino.gif" alt="Semáforo Chulo">
 
 
 
@@ -27,7 +27,7 @@
 
 - Toqueteamos los routers TPLINK en clase y yo le actualizo el firmware, fácil... :smirk:
 
-<image src="/3_Evaluación/IMAGES/tplink firmware nuevo.png" alt="Firm nuevo">
+<image src="./IMAGES/tplink firmware nuevo.png" alt="Firm nuevo">
 
 
 ### 20230512
@@ -43,11 +43,16 @@
 
 Mira que chulo!!!:
 
-<image src="/3_Evaluación/IMAGES/Mikrotik - Router en Maquina Virtual.jpg" alt="RouterOS en mi casa">
+<image src="./IMAGES/Mikrotik - Router en Maquina Virtual.jpg" alt="RouterOS en mi casa">
 
 
 ----------------------------------------------------------------
-***ENLACES*** :
-[Primera EVA](/1_Evaluación/1_Evaluación.md) * 
-[Segunda EVA](/2_Evaluación/2_Evaluación.md) * 
-[Tercera EVA](/3_Evaluación/3_Evaluación.md) * 
+***ENLACES markdown*** :
+[Primera EVA](../1_Evaluación/1_Evaluación.md) * 
+[Segunda EVA](../2_Evaluación/2_Evaluación.md) * 
+[Tercera EVA](../3_Evaluación/3_Evaluación.md) * 
+
+***ENLACES html*** :
+[Primera EVA](../1_Evaluación/1_Evaluación.html) * 
+[Segunda EVA](../2_Evaluación/2_Evaluación.html) * 
+[Tercera EVA](../3_Evaluación/3_Evaluación.html) * 

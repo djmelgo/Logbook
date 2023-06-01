@@ -14,6 +14,9 @@
 - en SIRL nos volvemos locos con el programa DIGITAL.
 Pasamos expresiones a dicho programa.
 
+Adjunto foto:
+<image src="/2ª Evaluacion/IMAGES/GIF - Reloj_Digital - T-Real.gif" alt="Reloj DIGITAL">
+
 
 ### 20230212
 

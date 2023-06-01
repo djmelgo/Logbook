@@ -1,7 +1,17 @@
+---------------------------------------
+***************************************
 
-Repositorio privado:
+###Repositorio privado:
 https://github.com/djmelgo/Logbook
 
+---------------------------------------
+
+**nota:** Los archivos markdown, si son visualizados en GITHUB mostraran los emojis incrustados.
+
+---------------------------------------
+  
+  
+   
 
 ──────────▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ────────█═════════════════█

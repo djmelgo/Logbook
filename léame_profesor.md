@@ -11,7 +11,8 @@ https://github.com/djmelgo/Logbook
 
 
 - Los archivos markdown, si son visualizados en GITHUB mostraran los emojis incrustados.
-- Los archivos .pdf que son exportados de .md, no muestran los .gif. Para verlos, abrir el .html o desde GITHUB.
+- Los archivos .pdf que son exportados de .md, no muestran los .gif.
+- Para verlos mejor, abrir el .html o desde GITHUB.
 
 ---------------------------------------
   

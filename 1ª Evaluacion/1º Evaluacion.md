@@ -57,4 +57,6 @@ Nos tiramos 4 horas en el aula haciendo el examen de la 1a evaluacion.
 
 :boom::boom::boom::boom::boom:
 
+[Segunda EVA](/Logbook/2ª Evaluacion/2º Evaluacion.md)
+
 

@@ -44,9 +44,3 @@
 Mira que chulo!!!:
 
 <image src="/3ª Evaluacion/IMAGES/Mikrotik - Router en Maquina Virtual.jpg" alt="RouterOS en mi casa">
-
-
-
-
-[pepe](/2 Evaluacion/2º Evaluacion.md)
-

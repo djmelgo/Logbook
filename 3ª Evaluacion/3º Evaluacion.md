@@ -25,7 +25,7 @@
 
 ### 20230504
 
-- Toqueteamos los routers TPLINK en clase y yo le actualizo el firmware, fácil...
+- Toqueteamos los routers TPLINK en clase y yo le actualizo el firmware, fácil... :smirk:
 
 <image src="/3ª Evaluacion/IMAGES/tplink firmware nuevo.png" alt="Firm nuevo">
 

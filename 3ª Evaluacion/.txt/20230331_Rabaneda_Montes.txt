@@ -1,4 +1,0 @@
-- Belen nos enseña a comprobar las perdidas de los cables de fibra optica.
-- Aqui una muestra de la practica.
-(https://github.com/djmelgo/Logbook/blob/main/IMAGES/3%C2%AA%20Evaluacion/20230331_Rabaneda_Montes.JPEG?raw=true)
-

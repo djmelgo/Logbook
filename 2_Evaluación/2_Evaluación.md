@@ -16,7 +16,7 @@ Pasamos expresiones a dicho programa.
 
 Adjunto .gif:
 
-<image src="./IMAGES/B. Teoremas y Leyes - TRANSPOSICION.gif" alt="Algebra DIGITAL">
+<image src="./IMAGES/TRANSPOSICION.gif" alt="Algebra DIGITAL">
 
 
 ### 20230212
@@ -39,4 +39,9 @@ Adjunto .gif:
 ***ENLACES html*** :
 [Primera EVA](../1_Evaluación/1_Evaluación.html) * 
 [Segunda EVA](../2_Evaluación/2_Evaluación.html) * 
-[Tercera EVA](../3_Evaluación/3_Evaluación.html) * 
+[Tercera EVA](../3_Evaluación/3_Evaluación.html) *
+
+***ENLACES pdf*** :
+[Primera EVA](../1_Evaluación/1_Evaluación.pdf) * 
+[Segunda EVA](../2_Evaluación/2_Evaluación.pdf) * 
+[Tercera EVA](../3_Evaluación/3_Evaluación.pdf) *  

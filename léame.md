@@ -6,7 +6,12 @@ https://github.com/djmelgo/Logbook
 
 ---------------------------------------
 
-**nota:** Los archivos markdown, si son visualizados en GITHUB mostraran los emojis incrustados.
+**notas:**
+
+
+
+- Los archivos markdown, si son visualizados en GITHUB mostraran los emojis incrustados.
+- Los archivos .pdf que son exportados de .md, no muestran los .gif. Para verlos, abrir el .html o desde GITHUB.
 
 ---------------------------------------
   

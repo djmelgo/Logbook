@@ -48,16 +48,16 @@ Mira que chulo!!!:
 
 ----------------------------------------------------------------
 ***ENLACES markdown*** :
-[Primera EVA](../1_Evaluación/1_Evaluación.md) * 
-[Segunda EVA](../2_Evaluación/2_Evaluación.md) * 
-[Tercera EVA](../3_Evaluación/3_Evaluación.md) * 
+[Primera EVA](../1_Evaluacion/1_Evaluacion.md) * 
+[Segunda EVA](../2_Evaluacion/2_Evaluacion.md) * 
+[Tercera EVA](../3_Evaluacion/3_Evaluacion.md) * 
 
 ***ENLACES html*** :
-[Primera EVA](../1_Evaluación/1_Evaluación.html) * 
-[Segunda EVA](../2_Evaluación/2_Evaluación.html) * 
-[Tercera EVA](../3_Evaluación/3_Evaluación.html) *
+[Primera EVA](../1_Evaluacion/1_Evaluacion.html) * 
+[Segunda EVA](../2_Evaluacion/2_Evaluacion.html) * 
+[Tercera EVA](../3_Evaluacion/3_Evaluacion.html) *
 
 ***ENLACES pdf*** :
-[Primera EVA](../1_Evaluación/1_Evaluación.pdf) * 
-[Segunda EVA](../2_Evaluación/2_Evaluación.pdf) * 
-[Tercera EVA](../3_Evaluación/3_Evaluación.pdf) *  
+[Primera EVA](../1_Evaluacion/1_Evaluacion.pdf) * 
+[Segunda EVA](../2_Evaluacion/2_Evaluacion.pdf) * 
+[Tercera EVA](../3_Evaluacion/3_Evaluacion.pdf) *  

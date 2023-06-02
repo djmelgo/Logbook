@@ -11,6 +11,7 @@ https://github.com/djmelgo/Logbook
 - Solucionados problemas de emojis y .pdf
 - Se adjuntan archivos llamados "captura_X_evaluacion.pdf" para ver el repositorio.
 - Corrección ASCII 7bits
+- Añado "index.html"
 - El tamaño de la foto esa, es que la hice un resize y deberia quedar "loco" al cambio.
 
 **changelog v.2.1. :**

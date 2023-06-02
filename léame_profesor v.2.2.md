@@ -6,13 +6,16 @@ https://github.com/djmelgo/Logbook
 
 ---------------------------------------
 
-**notas:**
+**changelog v.2.2. :**
 
+- Solucionados problemas de emojis y .pdf
+- Se adjuntan archivos llamados "captura_X_evaluacion.pdf" para ver el repositorio.
 
+**changelog v.2.1. :**
 
 - Los archivos markdown, si son visualizados en GITHUB mostraran los emojis incrustados.
 - Los archivos .pdf que son exportados de .md, no muestran los .gif.
-- Para verlos mejor, abrir el .html o desde GITHUB, o los archivos llamados "captura_X_evaluacion.pdf"
+- Para verlos mejor, abrir el .html o desde GITHUB, o los archivos llamados "captura_X_evaluacion.pdf".
 
 
 ---------------------------------------

@@ -5,14 +5,16 @@
 
 ### 20221013
 
-15:30 Creo una cuenta en GITHUB y pongo las carpetas como manda el ejercicio. intento comprender como funciona Github. :dizzy_face::dizzy_face::dizzy_face:
+15:30 Creo una cuenta en GITHUB y pongo las carpetas como manda el ejercicio. intento comprender como funciona Github.
+
 16:00 me pongo a escribir esta nota e intento rellenar dias anteriores.
-16:30 leo CISCO IT Essentials.
+
+16:30 leo CISCO IT Essentials. 🔥
 
 ### 20221014
 
 por la tarde tengo 3 horas de SIRL
-vemos capas OSI :hot_face:
+vemos capas OSI 🥵
 instalamos linux en maquina vintage
 
 

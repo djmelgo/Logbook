@@ -7,7 +7,7 @@
 
 15:30 Creo una cuenta en GITHUB y pongo las carpetas como manda el ejercicio. intento comprender como funciona Github.
 
-16:00 me pongo a escribir esta nota e intento rellenar dias anteriores.
+16:00 me pongo a escribir esta nota e intento rellenar días anteriores.
 
 16:30 leo CISCO IT Essentials. 🔥
 
@@ -21,20 +21,20 @@ instalamos linux en maquina vintage
 ### 20221018
 
 no trabajo
-12:00 leo CIsco IT Essentials :hot_face:
+12:00 leo CIsco IT Essentials 🥵
 
 
 ### 20221020
 
 trabajo
-15:30 instalo Kubuntu en maquina virtual :hugs:
+15:30 instalo Kubuntu en maquina virtual 😍
 
 
 ### 20221111
 
-Dia de practicas.
+Día de practicas.
 Tenemos SIRL
-este dia, montamos en el aula una canaleta encima de las mesas para tener enchufes y tomas de red accesibles como "banco de pruebas" :roll_eyes:
+este día, montamos en el aula una canaleta encima de las mesas para tener enchufes y tomas de red accesibles como "banco de pruebas" 🙄
 
 Adjunto foto:
 
@@ -48,7 +48,7 @@ Semana de recuperación de practicas. :hot_face:
 
 ### 20221128
 
-Semana de examenes de la 1ª Evaluacion. :hot_face::hot_face::hot_face::hot_face:
+Semana de examenes de la 1ª Evaluacion. 🥵🥵🥵🥵
 Va a ser dura!!!!
 Suerte....  :_(
 
@@ -58,8 +58,7 @@ Suerte....  :_(
 Dia de examen!!!
 Nos tiramos 4 horas en el aula haciendo el examen de la 1a evaluacion.
 
-:boom::boom::boom::boom::boom:
-
+💥💥💥💥
 
 
 

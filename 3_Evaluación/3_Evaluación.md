@@ -10,7 +10,7 @@
 
 ### 20230407
 
-- SEMANA SANTAAAAAAAAAAAAAAAAAAAAAAAAAAAAA :tada::tada::tada::tada::tada:
+- SEMANA SANTAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 🎉🎉🎉🎉🎉🎉
 
 <image src="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDQL7GODMx-c-31298MYHiiYeJUJUYYsyYxoG1XUHDBUBg86Ot2y3ug5yarIN4pDMlXdqIF-o7f6KJP3BpSd-6_z8xZWERm7xvl8DjR9lqUmHCgXoyvR9B08Rp8DOucZsgEl4s6YMegSYQXae70nPc5att7c-Q=s0-d" alt="Semana Santa">
 
@@ -25,7 +25,7 @@
 
 ### 20230504
 
-- Toqueteamos los routers TPLINK en clase y yo le actualizo el firmware, fácil... :smirk:
+- Toqueteamos los routers TPLINK en clase y yo le actualizo el firmware, fácil... 😏
 
 <image src="./IMAGES/tplink_firmware_nuevo.png" alt="Firm nuevo">
 
@@ -33,7 +33,7 @@
 ### 20230512
 
 - Toqueteamos los Mikrotik con Luis.
-- Molaaaaaannnnnn.
+- Molaaaaaannnnnn. 👾
 
 
 ### 20230517
